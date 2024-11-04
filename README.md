@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... ajudas projeto sobre meu trabalho 
 - 📫 How to reach me ... em minhas rees sociais, ou pesoalmete 
 - 😄 Pronouns: ... Vitor 
-- ⚡ Fun fact: ... ser a melhor pessoa que já pude ser 
+- ⚡ Fun fact: ... ser a melhor pessoa que já pude ser.
 
 <!---
 joaovitor1533/joaovitor1533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
